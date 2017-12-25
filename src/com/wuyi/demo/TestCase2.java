@@ -16,4 +16,7 @@ public class TestCase2 {
 	public void efg() {
 		System.out.println("abc");
 	}
+	public void fgh() {
+		System.out.println("abc");
+	}
 }
