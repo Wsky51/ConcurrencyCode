@@ -13,4 +13,7 @@ public class TestCase2 {
 	public void def() {
 		System.out.println("abc");
 	}
+	public void efg() {
+		System.out.println("abc");
+	}
 }
