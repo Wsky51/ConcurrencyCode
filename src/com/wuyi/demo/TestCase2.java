@@ -10,4 +10,7 @@ public class TestCase2 {
 	public void bcd() {
 		System.out.println("abc");
 	}
+	public void def() {
+		System.out.println("abc");
+	}
 }
