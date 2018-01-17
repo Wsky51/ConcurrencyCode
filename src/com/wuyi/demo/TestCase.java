@@ -2,7 +2,7 @@ package com.wuyi.demo;
 
 public class TestCase {
 	public static void main(String[] args) {
-		System.out.println("dasdas");
+		System.out.println("dasdasA");
 	}
 	public void abc() {
 		System.out.println("abc");
